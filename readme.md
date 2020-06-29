@@ -9,10 +9,6 @@ This project will take around 10 hours approximatly which depends on how much yo
 
 
 
-## Table of Contents
-[TOC]
-
-
 ## Objective 
 The objective of this project was to measure the temperature of a jacuzzi at my country house. This is because in the winter when I am not around and for some reason there is a power failure I need to know so the jacuzzi does not freeze and cracks so I need to be notified if the jacuzzi goes below a specific temperature. 
 
